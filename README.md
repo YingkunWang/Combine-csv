@@ -5,5 +5,5 @@
 - Then add a column to indicate each row's origional file name
 - At last, use *pd.concat* to combine all tables and export it.
 
-It could be run in the terminal as 
+The command in the terminal is 
 `python3 csv-combiner.py >> combined.csv`
